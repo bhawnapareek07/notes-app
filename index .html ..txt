@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Styled Page</title>
+<style>
+body {
+  background-color: lightyellow;
+  font-family: Arial, sans-serif;
+}
+h1 {
+  color: darkgreen;
+  text-align: center;
+}
+p {
+  font-size: 18px;
+  color: brown;
+}
+</style>
+</head>
+<body>
+<h1>Welcome to Bhawna's Website</h1>
+<p>This is my first styled webpage using HTML + CSS!</p>
+</body>
+</html><!DOCTYPE html>
+<html>
+<head>
+<title>Styled Page</title>
+<style>
+body {
+  background-color: lightyellow;
+  font-family: Arial, sans-serif;
+}
+h1 {
+  color: darkgreen;
+  text-align: center;
+}
+p {
+  font-size: 18px;
+  color: brown;
+}
+</style>
+</head>
+<body>
+<h1>Welcome to Bhawna's Website</h1>
+<p>This is my first styled webpage using HTML + CSS!</p>
+
+<!-- Image -->
+<img src="myphoto.jpg" alt="My Photo" width="300">
+
+<!-- Link -->
+<p>Check out <a href="https://www.google.com">Google</a> for more info!</p>
+
+</body>
+</html>
