@@ -13,4 +13,4 @@ App lightweight hai aur easy-to-use interface ke saath design kiya gaya hai.
 ## 🚀 Installation
 1. Repo clone karo:
    ```bash
-   git clone https://github.com/username/notes-app.git
+   git clone https://bhawnapareek07.github.io/notes-app/
